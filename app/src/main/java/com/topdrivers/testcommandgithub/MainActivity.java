@@ -15,11 +15,6 @@ public class MainActivity extends AppCompatActivity {
         //troisième étape
         //quatrième étape
         //cinquième étape
-        //sixième étape
-        //septième étape
-        //huitième étape
-        //neuvième étape
-        //dixième étape
-        //onzième étape
+      
     }
 }
